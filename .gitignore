@@ -1,1 +1,3 @@
-*.db
+*.dbgit remote add origin https://github.com/AlecHultman/MormorDagnysBullar.git
+git branch -M main
+git push -u origin main
